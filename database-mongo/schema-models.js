@@ -34,3 +34,6 @@ export default Order
 //A good analogy would be that models are like classes we don't need to make models again and again
 //if a model is made --> mongoose.model('model-name', follow-this-schema)
 //then no need to create it again and again 
+
+//example of a schema I made
+
